@@ -1,0 +1,3 @@
+C:\Users\leona\OneDrive\UPC - 1er Ciclo\Programación 1\Trabajo Final\Hito2.3\x64\Debug\Hito2.3.vcxproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\UPC - 1er Ciclo\Programación 1\Trabajo Final\Hito2.3\x64\Debug\Hito2.3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\UPC - 1er Ciclo\Programación 1\Trabajo Final\Hito2.3\x64\Debug\Hito2.3.exe
